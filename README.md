@@ -1,6 +1,12 @@
 # Ala
 
-This is an Hanami 2 application.
+Wikipedia says that [Ala](https://en.wikipedia.org/wiki/Ala_(odinani)):
+
+> Her name literally translates to "ground" in the Igbo language, denoting her
+> powers over the earth and her status as the ground itself.
+
+Since Ala is there to ground yourself in reality with your habits, Ala
+perfectly fits the description.
 
 ## Local development
 
