@@ -17,3 +17,9 @@
 /node_modules
 /public/assets
 /.assets/tmp/*
+
+# Development and test log files
+/log
+
+# PostgreSQL database cluster
+/db/cluster
