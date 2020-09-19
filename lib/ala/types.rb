@@ -3,7 +3,7 @@
 
 require "dry/types"
 
-module AppPrototype
+module Ala
   module Types
     include Dry.Types
   end

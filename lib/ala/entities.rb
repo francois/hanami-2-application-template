@@ -1,7 +1,7 @@
 # auto_register: false
 # frozen_string_literal: true
 
-module AppPrototype
+module Ala
   module Entities
   end
 end
