@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title><%= content_for(:title) ? "#{content_for(:title)} / Ala" : "Ala" %></title>
+  <meta name="title" content="Ala">
+  <link rel="stylesheet" type="text/css" href="<%= assets["main__public.css"] %>">
+  <script src="<%= assets["main__public.js"] %>" defer=true></script>
+</head>
+<body>
+  <%= yield %>
+</body>
+</html>
