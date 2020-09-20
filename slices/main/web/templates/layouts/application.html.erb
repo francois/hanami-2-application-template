@@ -4,10 +4,11 @@
   <meta charset="utf-8">
   <title><%= content_for(:title) ? "#{content_for(:title)} / Ala" : "Ala" %></title>
   <meta name="title" content="Ala">
+  <link href="https://unpkg.com/tailwindcss@^1.8/dist/tailwind.min.css" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="<%= assets["main__public.css"] %>">
   <script src="<%= assets["main__public.js"] %>" defer=true></script>
 </head>
-<body>
+<body class="p-2">
   <%= yield %>
 </body>
 </html>

@@ -6,9 +6,6 @@ module Main
   module Actions
     module Home
       class Show < Main::Action
-        def handle(request, response)
-          response.render
-        end
       end
     end
   end
