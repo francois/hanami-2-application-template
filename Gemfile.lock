@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/hanami/controller
-  revision: de4a010aa43e83a7366ae6a30f9270a4b551a149
+  revision: aa619e651464f683679da0ff9302b3bdaefe0691
   branch: unstable
   specs:
     hanami-controller (2.0.0.alpha1)
@@ -10,7 +10,7 @@ GIT
 
 GIT
   remote: https://github.com/hanami/hanami
-  revision: d929b4896a418c74bfa009fd55f846865f2723b6
+  revision: 231cc03555b0610add2545cb57146a30c6201af2
   branch: unstable
   specs:
     hanami (2.0.0.alpha1)
@@ -227,7 +227,7 @@ GEM
       nenv (~> 0.1)
       shellany (~> 0.0)
     parallel (1.19.2)
-    parser (2.7.1.5)
+    parser (2.7.2.0)
       ast (~> 2.4.1)
     pg (1.2.3)
     pry (0.13.1)
